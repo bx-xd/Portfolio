@@ -1,6 +1,5 @@
 .project-content {
-  transition: 0.3s;
-  display: none;
+  opacity: 0;
   position: absolute;
   top: 10%;
   left: 15%;
